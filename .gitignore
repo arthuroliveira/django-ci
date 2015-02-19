@@ -17,6 +17,7 @@ db.sqlite
 /node_modules
 /logs
 *.db
+db.*
 *.swp
 *.ipynb
 *.swo
