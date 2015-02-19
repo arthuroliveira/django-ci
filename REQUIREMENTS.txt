@@ -3,3 +3,4 @@ django-crispy-forms==1.4.0
 django-reversion==1.8.5
 -e git+http://github.com/sshwsfc/django-xadmin.git#egg=django_xadmin-master
 wsgiref==0.1.2
+django-zurb-foundation==5.5.0
