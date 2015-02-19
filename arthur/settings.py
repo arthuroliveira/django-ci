@@ -39,6 +39,8 @@ INSTALLED_APPS = (
     'xadmin',
     'crispy_forms',
     'foundation',
+
+    'arthur.apps.homepage',
 )
 
 MIDDLEWARE_CLASSES = (
