@@ -1,5 +1,5 @@
 Django==1.7.4
 django-crispy-forms==1.4.0
 django-reversion==1.8.5
--e git+git@github.com:sshwsfc/django-xadmin.git#egg=django_xadmin-master
+-e git+http://github.com/sshwsfc/django-xadmin.git#egg=django_xadmin-master
 wsgiref==0.1.2
