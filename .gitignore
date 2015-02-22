@@ -26,5 +26,4 @@ db.*
 cloud/ProcfileDev
 cloud/local_config.py
 .env
-.foreman
-*/local_settings.py
+t.foreman
